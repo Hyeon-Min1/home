@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Hyeon-Min1/home.git/static/css/main.d7da34c1.css",
+    "main.js": "/Hyeon-Min1/home.git/static/js/main.f20b31e4.js",
+    "static/media/video.mp4": "/Hyeon-Min1/home.git/static/media/video.46116a4ee61e8e4a8a63.mp4",
+    "static/media/about1.png": "/Hyeon-Min1/home.git/static/media/about1.06921d9cf55995d96520.png",
+    "static/media/medical1.png": "/Hyeon-Min1/home.git/static/media/medical1.57d3a18d2c535f1cdec2.png",
+    "static/media/medicine.png": "/Hyeon-Min1/home.git/static/media/medicine.1c2ca9bf1309ccb57ef0.png",
+    "static/media/about.svg": "/Hyeon-Min1/home.git/static/media/about.2cfca910f1bf67d562dad625365a82c3.svg",
+    "static/media/happy.svg": "/Hyeon-Min1/home.git/static/media/happy.80a0e4661e6287b3e0a85cde284f4bd6.svg",
+    "static/media/injured.svg": "/Hyeon-Min1/home.git/static/media/injured.9e15cc8ab30beab4f6c49ba411cf59d6.svg",
+    "index.html": "/Hyeon-Min1/home.git/index.html",
+    "main.d7da34c1.css.map": "/Hyeon-Min1/home.git/static/css/main.d7da34c1.css.map",
+    "main.f20b31e4.js.map": "/Hyeon-Min1/home.git/static/js/main.f20b31e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7da34c1.css",
+    "static/js/main.f20b31e4.js"
+  ]
+}
